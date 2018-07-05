@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+    border:2px black solid;
+    background: beige;
+}
+
+html{
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px solid black; 
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    text-align: left;
+}
